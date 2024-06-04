@@ -1,0 +1,37 @@
+{
+    "result": [
+        {
+            "promotionPercentage": 50,
+            "order": 1,
+            "_id": "6343f11309dba475b90b4e0e",
+            "imageUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i2/2207593363668/O1CN01187jFv1cxzRdO4ep1_!!2207593363668.jpg_430x430q90.jpg",
+            "name": "IPhone Professional Lens",
+            "linkTo": "https://nokorshop.com/product-detail?provider=taobao&id=643449951084",
+            "originPrice": 42.68,
+            "promotionPrice": 21.34,
+            "promotionPercentageColor": "#ff4200"
+        },
+        {
+            "promotionPercentage": 50,
+            "order": 2,
+            "_id": "6343f18f09dba475b90b4e21",
+            "imageUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i2/1048931996/O1CN01GO6Eao1QcDBUpFEwE_!!1048931996.jpg_430x430q90.jpg",
+            "name": "Car Vacuum ",
+            "linkTo": "https://nokorshop.com/product-detail?provider=taobao&id=561828746497",
+            "originPrice": 8.34,
+            "promotionPrice": 4.17,
+            "promotionPercentageColor": "#ff4200"
+        },
+        {
+            "promotionPercentage": 50,
+            "order": 3,
+            "_id": "6343f20509dba475b90b4e22",
+            "imageUrl": "https://img.alicdn.com/imgextra/i1/2206419038033/O1CN01WskPye29DAMRno9NU_!!0-item_pic.jpg_430x430q90.jpg",
+            "name": "Cutie Powerbank",
+            "linkTo": "https://nokorshop.com/product-detail?provider=taobao&id=678761149993",
+            "originPrice": 13,
+            "promotionPrice": 6.5,
+            "promotionPercentageColor": "#ff4200"
+        }
+    ]
+}
